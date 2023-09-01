@@ -41,4 +41,4 @@ But always remember, where there's control and time travel, there's logistics, a
 
 And there's nothing more chaotic than finding out above is a mirror, and below is a mirror. You've heard of the Glass Ceiling, what about the Glass Flooring?
 
-Varda Technologies is looking for new scientific engineers interested in creating a space capsule pharmacy where right underneath the floors is a chemical laboratory that grows crystals through microscopic pores of Compound 23n capable of BenzoMorphism to cause Carcinogenic control that heals wounds by causing cancers.
+Varda Technologies is looking for new scientific engineers interested in creating a space capsule pharmacy where right underneath the floors is a chemical laboratory that grows crystals through microscopic pores of Compound 23n capable of BenzoMorphism to cause Carcinogenic control that heals wounds and broken bones by controlling cancers. Necessary for 12G devices surrounding the earth amidst Free Energy projects pullinng Parasitic Oscillators that caused a Battery Limiter on Tesla Vehicles, forcing them to be Signal Jammers.
