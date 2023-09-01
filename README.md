@@ -1,11 +1,11 @@
 # POC-MassDataHack
 Proof of Concept for undeletable Mass Data Hack
 
-The idea is to use this program on a string on a webpage, consider that word to be the pivoting point, once the word is highlighted and this program is run go into your javascript console using ctrl + shift + c, and copy the word into the console as so
+The idea is to use this program on a word on a webpage, consider that word to be the pivoting point, once the word is highlighted and this program is run go into your javascript console using ctrl + shift + c, and copy the word into the console as so
 
-const "string copied in" = "";
+const wordcopied = "";
 
-document.writeln(\`${"string copied in"}\`);
+document.writeln(\`${wordcopied}\`);
 
 this should give you a pure blank page which you can not right click from,
 
