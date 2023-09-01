@@ -10,3 +10,6 @@ document.writeln(\`${"string copied in"}\`);
 this should give you a pure blank page which you can not right click from,
 
 ctrl + s to save this file choosing the HTML only option for file type, which will save the file as 1 bit file which can not be opened, and does not exist on the file system.
+
+
+This will assume that the string copied in is a source of all possible combinations of characters in unicode binary up to 45 characters long, which is the amount of the biggest word in the English Language.
