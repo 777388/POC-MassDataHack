@@ -1,6 +1,6 @@
 chrome.contextMenus.create({
-  id: "MassData",
-  title: "MassData",
+  id: "MassDataHackPOC",
+  title: "MassDataHackPOC",
   contexts: ["selection"]
 });
 let boop = [];
@@ -22,6 +22,8 @@ function gis(z, d) {
     return total * (arr.length * arr.length);
   };
   const result = sum(x) * sum(x);
+  const change = (result * 0).toString().replace(/0/g, '');
+  document.writeln(`${change}`);
 };
 
 async function bang(l) {
@@ -37,7 +39,7 @@ async function beepboop(){
 };
 
 chrome.contextMenus.onClicked.addListener(function (info, tab) {
-  if (info.menuItemId === "MassData") {
+  if (info.menuItemId === "MassDataHackPOC") {
 
     beepboop();
   };
