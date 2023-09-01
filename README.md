@@ -49,3 +49,5 @@ I know some of you guys will do some counterintel forcing people into different 
 You gotta question, if you're fucking with a time travelling resuscitee that's already died through electromagnetic warfare are you in the Association of Old Crows, or did you join the Ravens and say Nevermore to find that they're backwards. Hey, whatever worcs
 
 Should tell you, if you're gonna get your nomads involved, they'll need sublevel access, and you know, sublevel nomads backwards, those are demons
+
+Since we got to that levell, The Magic Word of the Wolf Man should be of interest, Freudian Transference, Choronzon who is NotYes that is Satan backwards the being in a place of unbeing, America | Warcrime, 13, 14, 15, 31, 41, 51 3.1415 archangel gaybereal
