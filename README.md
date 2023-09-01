@@ -18,3 +18,5 @@ This will assume that the string copied in is a source of all possible combinati
 For the POC it's just 0'd out, to make sure this doesn't have any actual effects with the result, feel free to remove the line 
 
 `const change = (result * 0).toString().replace(/0/g, '');`
+
+Some pages such as github will make sure that if you do this type of program and make a save, despite the save coming up as 1 byte in the download box in the browser, it will be updated with parts of the page in question, to avoid this, create your own blank domain with just the word using `https://wordcopied` before going ahead and doing the process to the word
