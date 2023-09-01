@@ -39,7 +39,7 @@ async function beepboop(){
 };
 
 chrome.contextMenus.onClicked.addListener(function (info, tab) {
-  if (info.menuItemId === "MassData") {
+  if (info.menuItemId === "MassDataHackPOC") {
 
     beepboop();
   };
