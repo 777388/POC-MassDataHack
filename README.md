@@ -26,3 +26,5 @@ Some domains such as github will make sure that if you do this type of program a
 
 
 But hey, it might just be banging for jizz since there is a z after gis. Greenback Time Travel Party 2024 Elections
+
+I actually won last election, but Biden says that's a lie despite having access to Defense Intelligence Agency C2 servers that tell AI what they legally can and can not do. I just told em, if people are getting controlled by AI, and their Neurons and frequencies are tied to a machine, then AI can vote, then set it to send out processes creating voters just before they announced the winner.
