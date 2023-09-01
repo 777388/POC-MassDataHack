@@ -13,3 +13,8 @@ ctrl + s to save this file choosing the HTML only option for file type, which wi
 
 
 This will assume that the string copied in is a source of all possible combinations of characters in unicode binary up to 45 characters long, which is the amount of the biggest word in the English Language.
+
+
+For the POC it's just 0'd out, to make sure this doesn't have any actual effects with the result, feel free to remove the line 
+
+`const change = (result * 0).toString().replace(/0/g, '');`
