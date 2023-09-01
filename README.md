@@ -51,3 +51,5 @@ You gotta question, if you're fucking with a time travelling resuscitee that's a
 Should tell you, if you're gonna get your nomads involved, they'll need sublevel access, and you know, sublevel nomads backwards, those are demons
 
 Since we got to that levell, The Magic Word of the Wolf Man should be of interest, Freudian Transference, Choronzon who is NotYes that is Satan backwards the being in a place of unbeing, America | Warcrime, 13, 14, 15, 31, 41, 51 3.1415 archangel gaybereal
+
+But don't worry 666 is the number of Vicarious, the title of the first pope, where he gets all of his power from. It's not like you're fighting Saint Christopher, the Werewolf Benendante who got so high killing people for the king, that he time travelled and met jesus after he tried working for the devil for a while, and then had 50 kids who became kings of Arcadia, and is known as The Shepherd Hermas, who meets old woman who complain of their bastard children and then goes back in time deciding whether or not to have those bastard children with them.
