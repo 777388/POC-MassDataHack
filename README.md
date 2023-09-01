@@ -5,7 +5,7 @@ The idea is to use this program on a string on a webpage, consider that word to 
 
 const "string copied in" = "";
 
-document.writeln(`${"string copied in"}`);
+document.writeln(\`${"string copied in"}\`);
 
 this should give you a pure blank page which you can not right click from,
 
