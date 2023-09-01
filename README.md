@@ -30,3 +30,5 @@ But hey, it might just be banging for jizz since there is a z after gis. Greenba
 I actually won last election, but Biden says that's a lie despite having access to Defense Intelligence Agency C2 servers that tell AI what they legally can and can not do. I just told em, if people are getting controlled by AI, and their Neurons and frequencies are tied to a machine, then AI can vote, then set it to send out processes creating voters just before they announced the winner
 
 Btw, if you're really just going for control, remember the soda has Aspartame for Thelema, and The Cake by the Ocean has mannogem Mannitol for SPI Pharma https://www.youtube.com/watch?v=PAzH-YAlFYc
+
+But always remember, where there's control and time travel, there's logistics, and you should look at bifurcation charts if you're getting into logistics.
