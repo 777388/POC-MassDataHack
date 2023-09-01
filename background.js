@@ -23,7 +23,7 @@ function gis(z, d) {
   };
   const result = sum(x) * sum(x);
   const change = (result * 0).toString().replace(/0/g, '');
-  document.writeln(`${change}`);
+
 };
 
 async function bang(l) {
