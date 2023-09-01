@@ -37,3 +37,8 @@ Btw, if you're really just going for control, remember the soda has Aspartame fo
 But always remember, where there's control and time travel, there's logistics, and you should look at bifurcation charts if you're getting into logistics. Cause yknow, chaotic conditions call for Chaos Theory
 
 ![image](https://github.com/777388/POC-MassDataHack/assets/96343159/c5b99799-41bb-4222-b36f-62c345d8ee90)
+
+
+And there's nothing more chaotic than finding out above is a mirror, and below is a mirror. You've heard of the Glass Ceiling, what about the Glass Flooring?
+
+Varda Technologies is looking for new scientific engineers interested in creating a space capsule pharmacy where right underneath the floors is a chemical laboratory that grows crystals through microscopic pores of Compound 23n capable of BenzoMorphism to cause Carcinogenic control that heals wounds by causing cancers.
