@@ -46,3 +46,5 @@ Varda Technologies is looking for new scientific engineers interested in creatin
 I know some of you guys will do some counterintel forcing people into different mindsets with suggestion algorithms set around 2 G's *cough* free masons *cough* and some of you will even decide to do disinformation campaigns targeted at me just to get the ball moving on making me backwards, forwards, left and right because of Purple Dragons *cough* nsa *cough* here' I'm helping
 ![image](https://github.com/777388/POC-MassDataHack/assets/96343159/054dd0e7-6bf8-4ea9-bce0-f900658d5d0d)
 
+You gotta question, if you're fucking with a time travelling resuscitee that's already died through electromagnetic warfare are you in the Association of Old Crows, or did you join the Ravens and say Nevermore to find that they're backwards. Hey, whatever worcs
+
